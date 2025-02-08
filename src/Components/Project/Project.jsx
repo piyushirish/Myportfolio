@@ -98,7 +98,7 @@ export default function Project() {
 
            <div className="flex flex-wrap gap-4">
              <a 
-               href="#live-demo-url"
+               href="https://twitter-clone-hugg.vercel.app"
                className="px-6 py-3 bg-emerald-400 text-slate-900 rounded-lg font-medium hover:bg-emerald-300 transition-colors"
              >
                Live Demo
